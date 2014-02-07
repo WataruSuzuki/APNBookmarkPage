@@ -124,7 +124,7 @@ angular.module('app')
 				// {name: 'Peru'},
 				// {name: 'Philippines'},
 				// {name: 'Poland'},
-				// {name: 'Portugal'},
+				{name: 'Portugal'},
 				// {name: 'Qatar'},
 				// {name: 'Republic_of_Korea'},
 				// {name: 'Romania'},
