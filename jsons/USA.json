@@ -8,11 +8,6 @@
      "profile_url": "https://www.locusapi.com/pcs/h2o.new2.mobileconfig"
    },
    {
-     "name": "Pix Wireless",
-     "country": "USA",
-     "profile_url": "https://www.pixwireless.com/other/pixwireless.mobileconfig"
-   },
-   {
      "name": "Project Fi",
      "country": "USA",
      "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/projectfi.mobileconfig"
