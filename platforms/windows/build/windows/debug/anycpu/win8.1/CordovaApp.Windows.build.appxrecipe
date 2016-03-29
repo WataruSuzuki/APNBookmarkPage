@@ -59,6 +59,24 @@
     <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\img\logo.png">
       <PackagePath>www\img\logo.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\apn-profile-list.html">
+      <PackagePath>www\apn-profile-list.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\country-list.html">
+      <PackagePath>www\country-list.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\feedread.html">
+      <PackagePath>www\feedread.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\studyCordova.html">
+      <PackagePath>www\studyCordova.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\top-sliding-menu.html">
+      <PackagePath>www\top-sliding-menu.html</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\cordova-js-src\confighelper.js">
       <PackagePath>www\cordova-js-src\confighelper.js</PackagePath>
     </AppxPackagedFile>
@@ -77,8 +95,14 @@
     <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\cordova_plugins.js">
       <PackagePath>www\cordova_plugins.js</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\js\apnProfileList.js">
+      <PackagePath>www\js\apnProfileList.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\js\app.js">
       <PackagePath>www\js\app.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\js\countryList.js">
+      <PackagePath>www\js\countryList.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\js\feedLine.js">
       <PackagePath>www\js\feedLine.js</PackagePath>
@@ -91,9 +115,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\js\sampleCodeForStudy.js">
       <PackagePath>www\js\sampleCodeForStudy.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\js\searchPlaceController.js">
-      <PackagePath>www\js\searchPlaceController.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\angular\angular.js">
       <PackagePath>www\node_modules\angular\angular.js</PackagePath>
@@ -208,24 +229,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\onsenui.css">
       <PackagePath>www\node_modules\onsenui\css\onsenui.css</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\feedread.html">
-      <PackagePath>www\feedread.html</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\index.html">
-      <PackagePath>www\index.html</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\search-place.html">
-      <PackagePath>www\search-place.html</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\studyCordova.html">
-      <PackagePath>www\studyCordova.html</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\top-sliding-menu.html">
-      <PackagePath>www\top-sliding-menu.html</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\toppage.html">
-      <PackagePath>www\toppage.html</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\angular\angular.min.js.gzip">
       <PackagePath>www\node_modules\angular\angular.min.js.gzip</PackagePath>
