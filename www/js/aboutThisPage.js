@@ -1,3 +1,8 @@
+function launchApp(){
+    var url = "jchankchanapnassistant://";
+    var ref = window.open(url, '_blank', 'location=yes');
+}
+
 function dispAlert(){
     window.alert('アラートの表示');
 }
@@ -41,5 +46,5 @@ function loadExternalWebsite(){
     profileXml += "<key>PayloadUUID</key><string>" + UUID_forIdentifier + "</string>"
     profileXml += "<key>PayloadVersion</key><integer>1</integer></dict></plist>"
 
-    window.open('data:Application/octet-stream,' + encodeURIComponent(profileXml), 'apnbookmarks.mobileconfig');
+    var ref = window.open('data:Application/octet-stream,' + encodeURIComponent(profileXml), 'apnbookmarks.mobileconfig', 'location=yes');
 }
