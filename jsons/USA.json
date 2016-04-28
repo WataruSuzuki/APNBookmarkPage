@@ -20,52 +20,52 @@
    {
      "name": "Tello modem",
      "country": "USA",
-     "profile_url": "https://watarusuzuki.github.io/apn-profiles/resources/tello-modem.mobileconfig"
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/tello-modem.mobileconfig"
    },
    {
      "name": "Tello data(r.mi)",
      "country": "USA",
-     "profile_url": "https://watarusuzuki.github.io/apn-profiles/resources/tello-data.mobileconfig"
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/tello-data.mobileconfig"
    },
    {
      "name": "The People's Operator USA",
      "country": "USA",
-     "profile_url": "https://watarusuzuki.github.io/apn-profiles/resources/tpo.mobileconfig"
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/tpo.mobileconfig"
    },
    {
      "name": "Ting",
      "country": "USA",
-     "profile_url": "https://watarusuzuki.github.io/apn-profiles/resources/ting.mobileconfig"
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/ting.mobileconfig"
    },
    {
      "name": "US mobile",
      "country": "USA",
-     "profile_url": "https://watarusuzuki.github.io/apn-profiles/resources/usmobile.mobileconfig"
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/usmobile.mobileconfig"
    },
    {
      "name": "UVA mobile",
      "country": "USA",
-     "profile_url": "https://watarusuzuki.github.io/apn-profiles/resources/uvamobile.mobileconfig"
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/uvamobile.mobileconfig"
    },
    {
      "name": "Ultra mobile",
      "country": "USA",
-     "profile_url": "https://watarusuzuki.github.io/apn-profiles/resources/ultramobile.mobileconfig"
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/ultramobile.mobileconfig"
    },
    {
      "name": "Walmart Family mobile",
      "country": "USA",
-     "profile_url": "https://watarusuzuki.github.io/apn-profiles/resources/walmartfamilymobile.mobileconfig"
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/walmartfamilymobile.mobileconfig"
    },
    {
      "name": "ZingPCS",
      "country": "USA",
-     "profile_url": "https://watarusuzuki.github.io/apn-profiles/resources/zingpcs.mobileconfig"
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/zingpcs.mobileconfig"
    },
    {
      "name": "Ready SIM",
      "country": "USA",
-     "profile_url": "https://watarusuzuki.github.io/apn-profiles/resources/readysim.mobileconfig"
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/readysim.mobileconfig"
    }
  ]
 }
