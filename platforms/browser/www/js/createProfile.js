@@ -19,8 +19,6 @@ angular.module('app')
 			} else {
                 authType = 'PAP';
 			}
-            var profileXml = '<?xml version="1.0" encoding="utf-8"?><aTag>something</aTag>';
-
             let payloadDescription = "From APN Bookmarks webpage"
             let bundleID = "watarusuzuki.github.io.apn-profile"
             let UUID_forIdentifier = "f9dbd18b-90ff-58c1-8605-5abae9c50691"
