@@ -59,6 +59,9 @@
     <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\img\logo.png">
       <PackagePath>www\img\logo.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\about-this.html">
+      <PackagePath>www\about-this.html</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\apn-profile-list.html">
       <PackagePath>www\apn-profile-list.html</PackagePath>
     </AppxPackagedFile>
@@ -70,9 +73,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\index.html">
       <PackagePath>www\index.html</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\studyCordova.html">
-      <PackagePath>www\studyCordova.html</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\top-sliding-menu.html">
       <PackagePath>www\top-sliding-menu.html</PackagePath>
@@ -95,6 +95,9 @@
     <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\cordova_plugins.js">
       <PackagePath>www\cordova_plugins.js</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\js\aboutThisPage.js">
+      <PackagePath>www\js\aboutThisPage.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\js\apnProfileList.js">
       <PackagePath>www\js\apnProfileList.js</PackagePath>
     </AppxPackagedFile>
@@ -112,9 +115,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\js\platformOverrides.js">
       <PackagePath>www\js\platformOverrides.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\js\sampleCodeForStudy.js">
-      <PackagePath>www\js\sampleCodeForStudy.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\angular\angular.js">
       <PackagePath>www\node_modules\angular\angular.js</PackagePath>
