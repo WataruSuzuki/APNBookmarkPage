@@ -6,7 +6,6 @@ angular.module('app')
     var countryName = page.pushedOptions.items.name;
 
     watarusuzukigithubio.getProfileInfo(countryName + ".json").then(function(data){
-    //watarusuzukigithubio.getProfileInfo(country.name + ".json").then(function(data){
         $scope.jsonData = data;
     });
 
@@ -20,7 +19,8 @@ angular.module('app')
 .factory('watarusuzukigithubio', function($http) {
     return {
 		    getProfileInfo: function(fileName){
-				var resultsApnBookmarks = $http.get('https://watarusuzuki.github.io/apn-profiles/jsons/' + fileName)
+                var resultsApnBookmarks = $http.get('https://watarusuzuki.github.io/APNBookmarkPage/jsons/' + fileName)
+				// var resultsApnBookmarks = $http.get('https://watarusuzuki.github.io/apn-profiles/jsons/' + fileName)
 	            .then(function(response){
 	                return response.data;
 				},
