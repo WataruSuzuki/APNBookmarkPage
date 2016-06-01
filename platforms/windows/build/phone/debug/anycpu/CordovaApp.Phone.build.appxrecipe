@@ -87,8 +87,8 @@
     <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\country-list.html">
       <PackagePath>www\country-list.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\feedread.html">
-      <PackagePath>www\feedread.html</PackagePath>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\create-profile.html">
+      <PackagePath>www\create-profile.html</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\index.html">
       <PackagePath>www\index.html</PackagePath>
@@ -126,8 +126,8 @@
     <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\js\countryList.js">
       <PackagePath>www\js\countryList.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\js\feedLine.js">
-      <PackagePath>www\js\feedLine.js</PackagePath>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\js\createProfile.js">
+      <PackagePath>www\js\createProfile.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\js\index.js">
       <PackagePath>www\js\index.js</PackagePath>
@@ -197,9 +197,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\WinJS\js\base.js">
       <PackagePath>www\WinJS\js\base.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\css\feedline.css">
-      <PackagePath>www\css\feedline.css</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\css\index.css">
       <PackagePath>www\css\index.css</PackagePath>
