@@ -1,0 +1,445 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WATARU-IMAC-WIN</Machine>
+    <WindowsUser>watar</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>debug|anycpu</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>APNBookmarks</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Apache Cordova Team</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\build\windows\debug\anycpu\win8.1\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\img\logo.png">
+      <PackagePath>www\img\logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\cordova-js-src\confighelper.js">
+      <PackagePath>www\cordova-js-src\confighelper.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\cordova-js-src\exec.js">
+      <PackagePath>www\cordova-js-src\exec.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\cordova-js-src\platform.js">
+      <PackagePath>www\cordova-js-src\platform.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\cordova-js-src\splashscreen.js">
+      <PackagePath>www\cordova-js-src\splashscreen.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\js\app.js">
+      <PackagePath>www\js\app.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\js\feedLine.js">
+      <PackagePath>www\js\feedLine.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\js\index.js">
+      <PackagePath>www\js\index.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\js\platformOverrides.js">
+      <PackagePath>www\js\platformOverrides.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\js\sampleCodeForStudy.js">
+      <PackagePath>www\js\sampleCodeForStudy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\js\searchPlaceController.js">
+      <PackagePath>www\js\searchPlaceController.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\angular\angular.js">
+      <PackagePath>www\node_modules\angular\angular.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\angular\angular.min.js">
+      <PackagePath>www\node_modules\angular\angular.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\angular\index.js">
+      <PackagePath>www\node_modules\angular\index.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\js\angular-onsenui.js">
+      <PackagePath>www\node_modules\onsenui\js\angular-onsenui.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\js\angular-onsenui.min.js">
+      <PackagePath>www\node_modules\onsenui\js\angular-onsenui.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\js\onsenui.js">
+      <PackagePath>www\node_modules\onsenui\js\onsenui.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\js\onsenui.min.js">
+      <PackagePath>www\node_modules\onsenui\js\onsenui.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\x2js\all_tests.js">
+      <PackagePath>www\node_modules\x2js\all_tests.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\x2js\karma.conf.js">
+      <PackagePath>www\node_modules\x2js\karma.conf.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\x2js\tests_config.js">
+      <PackagePath>www\node_modules\x2js\tests_config.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\x2js\tests_funky.js">
+      <PackagePath>www\node_modules\x2js\tests_funky.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\x2js\tests_js2xml.js">
+      <PackagePath>www\node_modules\x2js\tests_js2xml.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\x2js\tests_smoke.js">
+      <PackagePath>www\node_modules\x2js\tests_smoke.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\x2js\tests_xml2js.js">
+      <PackagePath>www\node_modules\x2js\tests_xml2js.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\x2js\x2js.js">
+      <PackagePath>www\node_modules\x2js\x2js.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\xmldom\dom-parser.js">
+      <PackagePath>www\node_modules\xmldom\dom-parser.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\xmldom\dom.js">
+      <PackagePath>www\node_modules\xmldom\dom.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\xmldom\sax.js">
+      <PackagePath>www\node_modules\xmldom\sax.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\xmldom\__package__.js">
+      <PackagePath>www\node_modules\xmldom\__package__.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\css\feedline.css">
+      <PackagePath>www\css\feedline.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\css\index.css">
+      <PackagePath>www\css\index.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\css\splashscreen.css">
+      <PackagePath>www\css\splashscreen.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\angular\angular-csp.css">
+      <PackagePath>www\node_modules\angular\angular-csp.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\font_awesome\css\font-awesome.css">
+      <PackagePath>www\node_modules\onsenui\css\font_awesome\css\font-awesome.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\font_awesome\css\font-awesome.min.css">
+      <PackagePath>www\node_modules\onsenui\css\font_awesome\css\font-awesome.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\ionicons\css\ionicons.css">
+      <PackagePath>www\node_modules\onsenui\css\ionicons\css\ionicons.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\ionicons\css\ionicons.min.css">
+      <PackagePath>www\node_modules\onsenui\css\ionicons\css\ionicons.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\material-design-iconic-font\css\material-design-iconic-font.css">
+      <PackagePath>www\node_modules\onsenui\css\material-design-iconic-font\css\material-design-iconic-font.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\material-design-iconic-font\css\material-design-iconic-font.min.css">
+      <PackagePath>www\node_modules\onsenui\css\material-design-iconic-font\css\material-design-iconic-font.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\onsen-css-components-blue-basic-theme.css">
+      <PackagePath>www\node_modules\onsenui\css\onsen-css-components-blue-basic-theme.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\onsen-css-components-blue-theme.css">
+      <PackagePath>www\node_modules\onsenui\css\onsen-css-components-blue-theme.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\onsen-css-components-dark-theme.css">
+      <PackagePath>www\node_modules\onsenui\css\onsen-css-components-dark-theme.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\onsen-css-components-default.css">
+      <PackagePath>www\node_modules\onsenui\css\onsen-css-components-default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\onsen-css-components-purple-theme.css">
+      <PackagePath>www\node_modules\onsenui\css\onsen-css-components-purple-theme.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\onsen-css-components-sunshine-theme.css">
+      <PackagePath>www\node_modules\onsenui\css\onsen-css-components-sunshine-theme.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\onsen-css-components.css">
+      <PackagePath>www\node_modules\onsenui\css\onsen-css-components.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\onsenui.css">
+      <PackagePath>www\node_modules\onsenui\css\onsenui.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\feedread.html">
+      <PackagePath>www\feedread.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\search-place.html">
+      <PackagePath>www\search-place.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\studyCordova.html">
+      <PackagePath>www\studyCordova.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\top-sliding-menu.html">
+      <PackagePath>www\top-sliding-menu.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\toppage.html">
+      <PackagePath>www\toppage.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\angular\angular.min.js.gzip">
+      <PackagePath>www\node_modules\angular\angular.min.js.gzip</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\angular\angular.min.js.map">
+      <PackagePath>www\node_modules\angular\angular.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\angular\bower.json">
+      <PackagePath>www\node_modules\angular\bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\angular\package.json">
+      <PackagePath>www\node_modules\angular\package.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\bower.json">
+      <PackagePath>www\node_modules\onsenui\bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\package.json">
+      <PackagePath>www\node_modules\onsenui\package.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\x2js\jsconfig.json">
+      <PackagePath>www\node_modules\x2js\jsconfig.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\x2js\package.json">
+      <PackagePath>www\node_modules\x2js\package.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\xmldom\component.json">
+      <PackagePath>www\node_modules\xmldom\component.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\xmldom\package.json">
+      <PackagePath>www\node_modules\xmldom\package.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\angular\LICENSE.md">
+      <PackagePath>www\node_modules\angular\LICENSE.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\angular\README.md">
+      <PackagePath>www\node_modules\angular\README.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\CHANGELOG.md">
+      <PackagePath>www\node_modules\onsenui\CHANGELOG.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\README.md">
+      <PackagePath>www\node_modules\onsenui\README.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\x2js\README.md">
+      <PackagePath>www\node_modules\x2js\README.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\xmldom\readme.md">
+      <PackagePath>www\node_modules\xmldom\readme.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\font_awesome\fonts\fontawesome-webfont.eot">
+      <PackagePath>www\node_modules\onsenui\css\font_awesome\fonts\fontawesome-webfont.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\ionicons\fonts\ionicons.eot">
+      <PackagePath>www\node_modules\onsenui\css\ionicons\fonts\ionicons.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\material-design-iconic-font\fonts\Material-Design-Iconic-Font.eot">
+      <PackagePath>www\node_modules\onsenui\css\material-design-iconic-font\fonts\Material-Design-Iconic-Font.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\font_awesome\fonts\fontawesome-webfont.svg">
+      <PackagePath>www\node_modules\onsenui\css\font_awesome\fonts\fontawesome-webfont.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\ionicons\fonts\ionicons.svg">
+      <PackagePath>www\node_modules\onsenui\css\ionicons\fonts\ionicons.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\material-design-iconic-font\fonts\Material-Design-Iconic-Font.svg">
+      <PackagePath>www\node_modules\onsenui\css\material-design-iconic-font\fonts\Material-Design-Iconic-Font.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\font_awesome\fonts\fontawesome-webfont.ttf">
+      <PackagePath>www\node_modules\onsenui\css\font_awesome\fonts\fontawesome-webfont.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\ionicons\fonts\ionicons.ttf">
+      <PackagePath>www\node_modules\onsenui\css\ionicons\fonts\ionicons.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\material-design-iconic-font\fonts\Material-Design-Iconic-Font.ttf">
+      <PackagePath>www\node_modules\onsenui\css\material-design-iconic-font\fonts\Material-Design-Iconic-Font.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\font_awesome\fonts\fontawesome-webfont.woff">
+      <PackagePath>www\node_modules\onsenui\css\font_awesome\fonts\fontawesome-webfont.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\ionicons\fonts\ionicons.woff">
+      <PackagePath>www\node_modules\onsenui\css\ionicons\fonts\ionicons.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\material-design-iconic-font\fonts\Material-Design-Iconic-Font.woff">
+      <PackagePath>www\node_modules\onsenui\css\material-design-iconic-font\fonts\Material-Design-Iconic-Font.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\font_awesome\fonts\fontawesome-webfont.woff2">
+      <PackagePath>www\node_modules\onsenui\css\font_awesome\fonts\fontawesome-webfont.woff2</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\material-design-iconic-font\fonts\Material-Design-Iconic-Font.woff2">
+      <PackagePath>www\node_modules\onsenui\css\material-design-iconic-font\fonts\Material-Design-Iconic-Font.woff2</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\css\font_awesome\fonts\FontAwesome.otf">
+      <PackagePath>www\node_modules\onsenui\css\font_awesome\fonts\FontAwesome.otf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\js\onsenui.d.ts">
+      <PackagePath>www\node_modules\onsenui\js\onsenui.d.ts</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\LICENSE">
+      <PackagePath>www\node_modules\onsenui\LICENSE</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\xmldom\changelog">
+      <PackagePath>www\node_modules\xmldom\changelog</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\xmldom\LICENSE">
+      <PackagePath>www\node_modules\xmldom\LICENSE</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\blue-basic-theme.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\blue-basic-theme.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\blue-theme.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\blue-theme.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\alert-dialog.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\alert-dialog.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\button-bar.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\button-bar.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\button.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\button.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\checkbox.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\checkbox.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\dialog.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\dialog.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\fab.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\fab.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\global.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\global.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\index.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\index.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\list.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\list.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\material-shadow.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\material-shadow.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\modal.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\modal.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\navigation-bar.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\navigation-bar.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\notification.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\notification.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\page.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\page.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\popover.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\popover.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\progress-bar.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\progress-bar.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\progress-circular.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\progress-circular.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\radio-button.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\radio-button.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\range.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\range.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\search-input.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\search-input.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\switch.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\switch.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\tab-bar.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\tab-bar.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\text-input.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\text-input.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\textarea.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\textarea.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\toolbar-button.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\toolbar-button.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\components\util.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\components\util.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\dark-theme.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\dark-theme.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\purple-theme.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\purple-theme.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\www\node_modules\onsenui\stylus\sunshine-theme.styl">
+      <PackagePath>www\node_modules\onsenui\stylus\sunshine-theme.styl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\build\windows\debug\anycpu\win8.1\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

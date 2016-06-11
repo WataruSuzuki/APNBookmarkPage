@@ -1,0 +1,1 @@
+C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\AppPackages\CordovaApp.Windows_1.0.0.0_anycpu_debug_Test\CordovaApp.Windows_1.0.0.0_anycpu_debug.appx

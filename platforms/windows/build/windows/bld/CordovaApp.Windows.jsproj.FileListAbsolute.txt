@@ -1,0 +1,17 @@
+C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\build\windows\debug\anycpu\win8.1\resources.pri
+C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\build\windows\debug\anycpu\win8.1\AppxManifest.xml
+C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\build\windows\debug\anycpu\win8.1\CordovaApp.Windows.build.appxrecipe
+C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\build\windows\bld\priconfig.xml
+C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\build\windows\bld\priconfig.xml.intermediate
+C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\build\windows\bld\layout.resfiles
+C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\build\windows\bld\layout.resfiles.intermediate
+C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\build\windows\bld\resources.resfiles
+C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\build\windows\bld\resources.resfiles.intermediate
+C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\build\windows\bld\pri.resfiles
+C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\build\windows\bld\pri.resfiles.intermediate
+C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\build\windows\bld\qualifiers.txt
+C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\build\windows\bld\qualifiers.txt.intermediate
+C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\build\windows\bld\MultipleQualifiersPerDimensionFound.txt
+C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\build\windows\bld\ProjectArchitectures.txt
+C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\build\windows\bld\package.map.txt
+C:\Users\watar\Documents\GitHub\APNBookmarkPage\platforms\windows\build\windows\bld\_pkginfo.txt
