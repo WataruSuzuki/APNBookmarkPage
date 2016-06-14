@@ -1,0 +1,39 @@
+<ons-navigator ng-controller="FeedlineController">
+   <ons-page>
+        <ons-toolbar>
+            <div class="left">
+                <ons-toolbar-button ng-click="menu.toggleMenu()">
+                  <ons-icon icon="ion-navicon" size="28px" fixed-width="false"></ons-icon>
+                </ons-toolbar-button>
+            </div>
+            <div class="center">Feed line</div>
+        </ons-toolbar>
+
+        <div style="text-align: center">
+          <section style="padding: 0 8px 8px">
+            <input type="search" class="search-input" ng-model="searchText" placeholder="Feed Load"></input>
+          </section>
+          <section style="padding: 0 8px 8px">
+            <ons-button modifier="large" should-spin="{{isFetching}}" ng-click="feedLoad()">Feed Load</ons-button>
+          </section>
+        </div>
+        <!--
+        <ons-list-item modifier="chevron" ng-click="feedLoad()">
+            <ons-icon icon="ion-chatboxes" fixed-width="true" style="color: #ccc"></ons-icon>
+            Feed Load
+        </ons-list-item>
+        -->
+        <ons-list>
+            <ons-list-item modifier="chevron" class="item" ng-repeat="rssitem in rsslist" ng-click="showDetail($index)">
+                <ons-row>
+                    <ons-col>
+                        <header>
+                            <span class="item-title">{{rssitem.title}}</span>
+                        </header>
+                    </ons-col>
+                </ons-row>
+            </ons-list-item>
+        </ons-list>
+
+    </ons-page>
+</ons-navigator>

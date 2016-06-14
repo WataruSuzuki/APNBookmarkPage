@@ -1,0 +1,27 @@
+<ons-navigator ng-controller="MapController">
+   <ons-page>
+        <ons-toolbar>
+            <div class="left">
+                <ons-toolbar-button ng-click="menu.toggleMenu()">
+                  <ons-icon icon="ion-navicon" size="28px" fixed-width="false"></ons-icon>
+                </ons-toolbar-button>
+            </div>
+            <div class="center">OnsenUI Map</div>
+        </ons-toolbar>
+
+        <div id="mapCanvas"></div>
+
+        <p class="par-search">
+            <input type="search" class="search-input search-input-map">
+        </p>
+
+        <p class="par-buttons">
+            <ons-button  class="btn-delete" ng-click="deleteAllMarkers()">
+                Delete all markers
+            </ons-button>
+            <ons-button class="btn-distance" ng-click="calculateDistance()">
+                Distance
+            </ons-button>
+        </p>
+    </ons-page>
+</ons-navigator>

@@ -17,7 +17,7 @@
     specific language governing permissions and limitations
     under the License.
 -->
-<html>
+<html lang="en" ng-app="app" ng-csp>
     <head>
         <!--
         Customize this policy to fit your own app's needs. For more guidance, see:
@@ -28,22 +28,55 @@
             * Disables use of inline scripts in order to mitigate risk of XSS vulnerabilities. To change this:
                 * Enable inline JS: add 'unsafe-inline' to default-src
         -->
+        <!--
         <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
         <meta name="format-detection" content="telephone=no">
         <meta name="msapplication-tap-highlight" content="no">
         <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
-        <link rel="stylesheet" type="text/css" href="css/index.css">
-        <title>Hello World</title>
+        -->
+      <title>飲み会大臣</title>
+      <meta charset="utf-8" />
+      <meta name="apple-mobile-web-app-capable" content="yes" />
+      <meta name="mobile-web-app-capable" content="yes" />
+
+      <!-- JS dependencies (order matters!) -->
+      <script src="scripts/platformOverrides.js"></script>
+      <script src="node_modules/angular/angular.js"></script>
+      <script src="node_modules/onsenui/js/onsenui.js"></script>
+      <script src="node_modules/onsenui/js/angular-onsenui.js"></script>
+      <script src="node_modules/x2js/x2js.js"></script>
+
+      <!-- CSS dependencies -->
+      <link rel="stylesheet" href="node_modules/onsenui/css/onsenui.css" />
+      <link rel="stylesheet" href="node_modules/onsenui/css/onsen-css-components-blue-basic-theme.css" />
+
+      <!-- CSP support mode (required for Windows Universal apps) -->
+      <link rel="stylesheet" href="node_modules/angular/angular-csp.css" />
+
+      <!-- --------------- App init --------------- -->
+      <script src="https://maps.googleapis.com/maps/api/js?"> </script>
+
+      <script src="js/app.js"></script>
+
+      <link rel="stylesheet" href="css/index.css">
+      <link rel="stylesheet" href="css/googlemaps.css">
+      <link rel="stylesheet" href="css/feedline.css">
+
     </head>
     <body>
-        <div class="app">
-            <h1>Apache Cordova</h1>
-            <div id="deviceready" class="blink">
-                <p class="event listening">Connecting to Device</p>
-                <p class="event received">Device is Ready</p>
-            </div>
-        </div>
         <script type="text/javascript" src="cordova.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
+
+        <script src="js/mapController.js"></script>
+        <script src="js/searchPlaceController.js"></script>
+        <script src="js/feedLine.js"></script>
+        <script src="js/geolocationController.js"></script>
+
+        <ons-sliding-menu menu-page="top-sliding-menu.html" main-page="toppage.html" side="left"
+          var="menu" type="reveal" max-slide-distance="260px" swipeable="true">
+        </ons-sliding-menu>
+
+        <!-- TODO: "sampleCodeForStudy" is only sample for studying.. -->
+        <script src="js/sampleCodeForStudy.js"></script>
     </body>
 </html>
