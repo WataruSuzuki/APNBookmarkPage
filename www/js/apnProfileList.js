@@ -3,8 +3,6 @@
 angular.module('app')
 .controller('ApnProfileListController', function($scope, watarusuzukigithubio) {
 
-    var countryList = [];
-
     watarusuzukigithubio.getProfileInfo("USA.json").then(function(data){
         $scope.jsonData = data;
     });
