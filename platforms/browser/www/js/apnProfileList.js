@@ -12,7 +12,7 @@ angular.module('app')
     }
 
     $scope.openConfigProfile = function(index) {
-        var profileItem = $scope.items[index];
+        var profileItem = $scope.jsonData.items[index];
         var ref = window.open(profileItem.profile_url, '_blank', 'location=yes');
     };
 });
