@@ -6,23 +6,9 @@
                   <ons-icon icon="ion-navicon" size="28px" fixed-width="false"></ons-icon>
                 </ons-toolbar-button>
             </div>
-            <div class="center">APN Profiles</div>
+            <div class="center">APN Profiles(構成プロファイル一覧)</div>
         </ons-toolbar>
 
-        <div style="text-align: center">
-          <section style="padding: 0 8px 8px">
-            <input type="search" class="search-input" ng-model="searchText" placeholder="Load"></input>
-          </section>
-          <section style="padding: 0 8px 8px">
-            <ons-button modifier="large" should-spin="{{isFetching}}" ng-click="loadList()">Load</ons-button>
-          </section>
-        </div>
-        <!--
-        <ons-list-item modifier="chevron" ng-click="feedLoad()">
-            <ons-icon icon="ion-chatboxes" fixed-width="true" style="color: #ccc"></ons-icon>
-            Feed Load
-        </ons-list-item>
-        -->
         <ons-list>
             <ons-list-item modifier="chevron" class="profileItem" ng-repeat="profileItem in jsonData.items" ng-click="openConfigProfile($index)">
                 <ons-row>

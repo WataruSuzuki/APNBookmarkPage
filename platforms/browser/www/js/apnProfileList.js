@@ -5,11 +5,9 @@ angular.module('app')
 
     var countryList = [];
 
-    $scope.loadList = function() {
-        watarusuzukigithubio.getProfileInfo("USA.json").then(function(data){
-            $scope.jsonData = data;
-        });
-    }
+    watarusuzukigithubio.getProfileInfo("USA.json").then(function(data){
+        $scope.jsonData = data;
+    });
 
     $scope.openConfigProfile = function(index) {
         var profileItem = $scope.jsonData.items[index];
@@ -21,8 +19,7 @@ angular.module('app')
 .factory('watarusuzukigithubio', function($http) {
     return {
 		    getProfileInfo: function(fileName){
-				var resultsApnBookmarks = $http.get('https://watarusuzuki.github.io/apn-profiles/jsons/USA.json')
-                //var resultsApnBookmarks = $http.get('https://watarusuzuki.github.io/apn-profiles/jsons/' + fileName)
+				var resultsApnBookmarks = $http.get('https://watarusuzuki.github.io/apn-profiles/jsons/' + fileName)
 	            .then(function(response){
 	                return response.data;
 				},
