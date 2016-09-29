@@ -3,5 +3,5 @@ function dispAlert(){
 }
 
 function loadExternalWebsite(){
-    window.open('https://www.googleapis.com/books/v1/volumes?q=harry+potter');
+    window.open('https://watarusuzuki.github.io/apn-profiles/resources/nodata.mobileconfig');
 }
