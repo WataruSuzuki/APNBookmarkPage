@@ -2,10 +2,10 @@
 
 angular.module('app')
 .controller('ApnProfileListController', function($scope, watarusuzukigithubio) {
-    var countryName = onsnavi.topPage.options;
-    console.log(countryName);
+    var page = onsnavi.topPage;
+    var countryName = page.pushedOptions.items.name;
 
-    watarusuzukigithubio.getProfileInfo("USA.json").then(function(data){
+    watarusuzukigithubio.getProfileInfo(countryName + ".json").then(function(data){
     //watarusuzukigithubio.getProfileInfo(country.name + ".json").then(function(data){
         $scope.jsonData = data;
     });
