@@ -2,8 +2,11 @@
 
 angular.module('app')
 .controller('ApnProfileListController', function($scope, watarusuzukigithubio) {
+    var countryName = onsnavi.topPage.options;
+    console.log(countryName);
 
     watarusuzukigithubio.getProfileInfo("USA.json").then(function(data){
+    //watarusuzukigithubio.getProfileInfo(country.name + ".json").then(function(data){
         $scope.jsonData = data;
     });
 
