@@ -38,9 +38,7 @@
       <link rel="stylesheet" href="node_modules/angular/angular-csp.css" />
 
       <script src="js/app.js"></script>
-
       <link rel="stylesheet" href="css/index.css">
-      <link rel="stylesheet" href="css/feedline.css">
 
     </head>
     <body>
@@ -49,6 +47,7 @@
 
         <script src="js/apnProfileList.js"></script>
         <script src="js/countryList.js"></script>
+        <script src="js/createProfile.js"></script>
 
         <ons-sliding-menu menu-page="top-sliding-menu.html" main-page="toppage.html" side="left"
           var="menu" type="reveal" max-slide-distance="260px" swipeable="false">
@@ -56,6 +55,15 @@
         <ons-template id="toppage.html">
           <ons-navigator page="country-list.html" var="onsnavi">
           </ons-navigator>
+        </ons-template>
+
+        <ons-template id="popover.html">
+          <ons-popover direction="up down" cancelable>
+            <div style="text-align: center; opacity: 0.5;">
+              <p>APN Name input is empty!</p>
+              <p><small>Enter a APN name.</small></p>
+            </div>
+          </ons-popover>
         </ons-template>
 
         <!-- TODO: "sampleCodeForStudy" is only sample for studying.. -->

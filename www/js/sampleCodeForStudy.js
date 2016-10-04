@@ -3,5 +3,7 @@ function dispAlert(){
 }
 
 function loadExternalWebsite(){
-    window.open('https://watarusuzuki.github.io/apn-profiles/resources/nodata.mobileconfig');
+    var stupidExample = '<?xml version="1.0" encoding="utf-8"?><aTag>something</aTag>';
+    window.open('data:Application/octet-stream,' + encodeURIComponent(stupidExample));
+    //window.open('https://watarusuzuki.github.io/apn-profiles/resources/nodata.mobileconfig');
 }
