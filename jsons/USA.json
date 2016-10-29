@@ -1,0 +1,71 @@
+
+{
+ "kind": "profile_lists",
+ "items": [
+   {
+     "name": "H2O（AT&T MVNO）",
+     "country": "USA",
+     "profile_url": "https://www.locusapi.com/pcs/h2o.new2.mobileconfig"
+   },
+   {
+     "name": "Project Fi",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/projectfi.mobileconfig"
+   },
+   {
+     "name": "Red Pocket Mobile",
+     "country": "USA",
+     "profile_url": "http://goredpocket.com/iphone"
+   },
+   {
+     "name": "Tello modem",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/tello-modem.mobileconfig"
+   },
+   {
+     "name": "Tello data(r.mi)",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/tello-data.mobileconfig"
+   },
+   {
+     "name": "The People's Operator USA",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/tpo.mobileconfig"
+   },
+   {
+     "name": "Ting",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/ting.mobileconfig"
+   },
+   {
+     "name": "US mobile",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/usmobile.mobileconfig"
+   },
+   {
+     "name": "UVA mobile",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/uvamobile.mobileconfig"
+   },
+   {
+     "name": "Ultra mobile",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/ultramobile.mobileconfig"
+   },
+   {
+     "name": "Walmart Family mobile",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/walmartfamilymobile.mobileconfig"
+   },
+   {
+     "name": "ZingPCS",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/zingpcs.mobileconfig"
+   },
+   {
+     "name": "Ready SIM",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/readysim.mobileconfig"
+   }
+ ]
+}
