@@ -20,7 +20,6 @@ angular.module('app')
     return {
 		    getProfileInfo: function(fileName){
                 var resultsApnBookmarks = $http.get('https://watarusuzuki.github.io/APNBookmarkPage/jsons/' + fileName)
-				// var resultsApnBookmarks = $http.get('https://watarusuzuki.github.io/apn-profiles/jsons/' + fileName)
 	            .then(function(response){
 	                return response.data;
 				},
