@@ -133,7 +133,7 @@ angular.module('app')
 				// {name: 'Senegal'},
 				// {name: 'Seychelles'},
 				// {name: 'Sierra_Leone'},
-				// {name: 'Singapore'},
+				{name: 'Singapore'},
 				// {name: 'Slovakia'},
 				// {name: 'Slovenia'},
 				// {name: 'Solomon_Islands'},
