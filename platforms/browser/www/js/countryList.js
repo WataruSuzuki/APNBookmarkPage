@@ -20,7 +20,7 @@ angular.module('app')
 				// {name: 'Antigua_and_Barbuda'},
 				// {name: 'Argentina'},
 				// {name: 'Armenia'},
-				// {name: 'Australia'},
+				{name: 'Australia'},
 				// {name: 'Austria'},
 				// {name: 'Azerbaijan'},
 				// {name: 'Bahamas'},
