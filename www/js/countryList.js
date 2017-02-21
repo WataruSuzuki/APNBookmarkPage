@@ -27,7 +27,7 @@ angular.module('app')
 				// {name: 'Bahrain'},
 				// {name: 'Barbados'},
 				// {name: 'Belarus'},
-				// {name: 'Belgium'},
+				{name: 'Belgium'},
 				// {name: 'Belize'},
 				// {name: 'Benin'},
 				// {name: 'Bermuda'},
