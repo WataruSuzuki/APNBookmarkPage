@@ -40,7 +40,7 @@ angular.module('app')
 				// {name: 'Bulgaria'},
 				// {name: 'Burkina_Faso'},
 				// {name: 'Cambodia'},
-				// {name: 'Canada'},
+				{name: 'Canada'},
 				// {name: 'Cape_Verde'},
 				// {name: 'Cayman_Islands'},
 				// {name: 'Chad'},
