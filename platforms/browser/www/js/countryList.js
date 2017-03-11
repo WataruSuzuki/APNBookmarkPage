@@ -34,7 +34,7 @@ angular.module('app')
 				// {name: 'Bhutan'},
 				// {name: 'Bolivia'},
 				// {name: 'Botswana'},
-				// {name: 'Brazil'},
+				{name: 'Brazil'},
 				// {name: 'British_Virgin_Islands'},
 				// {name: 'Brunei'},
 				// {name: 'Bulgaria'},
