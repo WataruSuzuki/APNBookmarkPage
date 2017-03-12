@@ -45,7 +45,7 @@ angular.module('app')
 				// {name: 'Cayman_Islands'},
 				// {name: 'Chad'},
 				// {name: 'Chile'},
-				// {name: 'China'},
+				{name: 'China'},
 				// {name: 'Colombia'},
 				// {name: 'Congo_Republic_of'},
 				// {name: 'Costa_Rica'},
