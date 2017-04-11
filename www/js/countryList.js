@@ -61,7 +61,7 @@ angular.module('app')
 				// {name: 'Estonia'},
 				// {name: 'Fiji'},
 				// {name: 'Finland'},
-				// {name: 'France'},
+				{name: 'France'},
 				// {name: 'Gambia'},
 				{name: 'Germany'},
 				// {name: 'Ghana'},
