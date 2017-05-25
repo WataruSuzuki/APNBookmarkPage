@@ -74,7 +74,7 @@ angular.module('app')
 				{name: 'Hong_Kong'},
 				// {name: 'Hungary'},
 				// {name: 'Iceland'},
-				// {name: 'India'},
+				{name: 'India'},
 				{name: 'Indonesia'},
 				// {name: 'Ireland'},
 				// {name: 'Israel'},
