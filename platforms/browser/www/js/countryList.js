@@ -139,7 +139,7 @@ angular.module('app')
 				// {name: 'Solomon_Islands'},
 				// {name: 'South_Africa'},
 				// {name: 'Spain'},
-				// {name: 'Sri_Lanka'},
+				{name: 'Sri_Lanka'},
 				// {name: 'St_Kitts'},
 				// {name: 'St_Lucia'},
 				// {name: 'St_Vincent_and_the_Grenadines'},
