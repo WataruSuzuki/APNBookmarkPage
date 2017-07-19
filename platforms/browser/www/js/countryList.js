@@ -116,7 +116,7 @@ angular.module('app')
 				// {name: 'Nigeria'},
 				// {name: 'Norway'},
 				// {name: 'Oman'},
-				// {name: 'Pakistan'},
+				{name: 'Pakistan'},
 				// {name: 'Palau'},
 				// {name: 'Panama'},
 				// {name: 'Papua_New_Guinea'},
