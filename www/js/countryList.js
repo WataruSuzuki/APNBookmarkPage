@@ -128,7 +128,7 @@ angular.module('app')
 				// {name: 'Qatar'},
 				{name: 'Republic_of_Korea'},
 				// {name: 'Romania'},
-				// {name: 'Russia'},
+				{name: 'Russia'},
 				// {name: 'Saudi_Arabia'},
 				// {name: 'Senegal'},
 				// {name: 'Seychelles'},
