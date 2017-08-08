@@ -150,7 +150,7 @@ angular.module('app')
 				// {name: 'Taiwan'},
 				// {name: 'Tajikistan'},
 				// {name: 'Tanzania'},
-				// {name: 'Thailand'},
+				{name: 'Thailand'},
 				// {name: 'Trinidad_and_Tobago'},
 				// {name: 'Tunisia'},
 				// {name: 'Turkey'},
