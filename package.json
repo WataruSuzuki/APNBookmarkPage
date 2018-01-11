@@ -1,0 +1,18 @@
+{
+  "name": "io.github.watarusuzuki.apnbookmarks",
+  "version": "1.0.0",
+  "displayName": "APNBookmarks",
+  "cordova": {
+    "platforms": [
+      "browser"
+    ],
+    "plugins": {
+      "cordova-plugin-whitelist": {}
+    }
+  },
+  "dependencies": {
+    "broser": "^1.2.0",
+    "cordova-browser": "^5.0.3",
+    "cordova-plugin-whitelist": "1"
+  }
+}
