@@ -18,4 +18,8 @@
     function onResume() {
         // TODO: This application has been reactivated. Restore application state here.
     };
+
+   // Also hiding the ad boxes by default and displaying them later if good idea
+
+}
 } )();
