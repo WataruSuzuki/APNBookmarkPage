@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "APNBookmarks",
+  "short_name": "APNBookmarks",
+  "version": "io.github.watarusuzuki.APNBookmarks",
+  "description": "A Page of Dev JchanKchan. It bookmarks APN config profiles",
+  "author": "Dev Jchan Kchan",
+  "icons": [],
+  "start_url": "index.html"
+}

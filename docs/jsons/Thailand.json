@@ -1,0 +1,26 @@
+
+{
+ "kind": "profile_lists",
+ "items": [
+   {
+     "name": "AIS",
+     "country": "Thailand",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Thailand/ais.mobileconfig"
+   },
+   {
+     "name": "DTAC",
+     "country": "Thailand",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Thailand/dtac.mobileconfig"
+   },
+   {
+     "name": "truemove",
+     "country": "Thailand",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Thailand/truemove.mobileconfig"
+   },
+   {
+     "name": "TOT",
+     "country": "Thailand",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Thailand/tot.mobileconfig"
+   }
+ ]
+}

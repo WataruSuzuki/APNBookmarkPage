@@ -1,0 +1,31 @@
+
+{
+ "kind": "profile_lists",
+ "items": [
+   {
+     "name": "airtel",
+     "country": "Sri_Lanka",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Sri_Lanka/airtel.mobileconfig"
+   },
+   {
+     "name": "Dialog",
+     "country": "Sri_Lanka",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Sri_Lanka/dialog.mobileconfig"
+   },
+   {
+     "name": "etisalat",
+     "country": "Sri_Lanka",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Sri_Lanka/etisalat.mobileconfig"
+   },
+   {
+     "name": "HUTCH",
+     "country": "Sri_Lanka",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Sri_Lanka/hutch.mobileconfig"
+   },
+   {
+     "name": "Vodafone",
+     "country": "Sri_Lanka",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Sri_Lanka/vodafone.mobileconfig"
+   }
+ ]
+}

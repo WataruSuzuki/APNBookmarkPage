@@ -1,0 +1,66 @@
+
+{
+ "kind": "profile_lists",
+ "items": [
+   {
+     "name": "AIRCEL",
+     "country": "India",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/India/aircel.mobileconfig"
+   },
+   {
+     "name": "airtel",
+     "country": "India",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/India/airtel.mobileconfig"
+   },
+   {
+     "name": "BSNL",
+     "country": "India",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/India/bsnl.mobileconfig"
+   },
+   {
+     "name": "IDEA Cellular",
+     "country": "India",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/India/ideacellular.mobileconfig"
+   },
+   {
+     "name": "JIO Internet",
+     "country": "India",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/India/jiointernet.mobileconfig"
+   },
+   {
+     "name": "MTNL",
+     "country": "India",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/India/mtnl.mobileconfig"
+   },
+   {
+     "name": "Reliance",
+     "country": "India",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/India/reliance.mobileconfig"
+   },
+   {
+     "name": "TATA",
+     "country": "India",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/India/tata.mobileconfig"
+   },
+   {
+     "name": "Uninor",
+     "country": "India",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/India/uninor.mobileconfig"
+   },
+   {
+     "name": "Videocon",
+     "country": "India",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/India/videocon.mobileconfig"
+   },
+   {
+     "name": "Virgin Mobile",
+     "country": "India",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/India/virgin.mobileconfig"
+   },
+   {
+     "name": "Vodafone",
+     "country": "India",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/India/vodafone.mobileconfig"
+   }
+ ]
+}

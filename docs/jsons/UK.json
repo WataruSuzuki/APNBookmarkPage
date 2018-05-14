@@ -1,0 +1,81 @@
+
+{
+ "kind": "profile_lists",
+ "items": [
+   {
+     "name": "3",
+     "country": "UK",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/UK/three.mobileconfig"
+   },
+   {
+     "name": "ASDA",
+     "country": "UK",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/UK/asda.mobileconfig"
+   },
+   {
+     "name": "BT mobile",
+     "country": "UK",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/UK/btmobile.mobileconfig"
+   },
+   {
+     "name": "EE",
+     "country": "UK",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/UK/ee.mobileconfig"
+   },
+   {
+     "name": "giffgaff",
+     "country": "UK",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/UK/giffgaff.mobileconfig"
+   },
+   {
+     "name": "mobal",
+     "country": "UK",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/UK/mobal.mobileconfig"
+   },
+   {
+     "name": "o2 (idata)",
+     "country": "UK",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/UK/o2_idata.mobileconfig"
+   },
+   {
+     "name": "o2 (payandgo)",
+     "country": "UK",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/UK/o2_payandgo.mobileconfig"
+   },
+   {
+     "name": "o2 (wap)",
+     "country": "UK",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/UK/o2_wap.mobileconfig"
+   },
+   {
+     "name": "TalkTalk",
+     "country": "UK",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/UK/talktalk.mobileconfig"
+   },
+   {
+     "name": "TESCO mobile",
+     "country": "UK",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/UK/tesco.mobileconfig"
+   },
+   {
+     "name": "tpo mobile",
+     "country": "UK",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/UK/tpo.mobileconfig"
+   },
+   {
+     "name": "Vergin",
+     "country": "UK",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/UK/vergin.mobileconfig"
+   },
+   {
+     "name": "Vodafone",
+     "country": "UK",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/UK/vodafone.mobileconfig"
+   },
+   {
+     "name": "Vodafone(wap)",
+     "country": "UK",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/UK/vodafone_wap.mobileconfig"
+   }
+ ]
+}

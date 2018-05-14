@@ -1,0 +1,31 @@
+
+{
+ "kind": "profile_lists",
+ "items": [
+   {
+     "name": "Claro Internet",
+     "country": "Brazil",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Brazil/claro.mobileconfig"
+   },
+   {
+     "name": "Oi Internet",
+     "country": "Brazil",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Brazil/oi.mobileconfig"
+   },
+   {
+     "name": "Nextel Internet",
+     "country": "Brazil",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Brazil/nextel.mobileconfig"
+   },
+   {
+     "name": "Vivo",
+     "country": "Brazil",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Brazil/vivo.mobileconfig"
+   },
+   {
+     "name": "TIM Internet",
+     "country": "Brazil",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Brazil/tim.mobileconfig"
+   }
+ ]
+}

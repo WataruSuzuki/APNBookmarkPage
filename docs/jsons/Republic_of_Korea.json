@@ -1,0 +1,21 @@
+
+{
+ "kind": "profile_lists",
+ "items": [
+   {
+     "name": "LG U+",
+     "country": "Republic_of_Korea",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Republic_of_Korea/lguplus.mobileconfig"
+   },
+   {
+     "name": "KT",
+     "country": "Republic_of_Korea",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Republic_of_Korea/kt.mobileconfig"
+   },
+   {
+     "name": "SK Telecom",
+     "country": "Republic_of_Korea",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Republic_of_Korea/sktelecom.mobileconfig"
+   }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "kind": "profile_lists",
+ "items": [
+   {
+     "name": "Optimus",
+     "country": "Portugal",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Portugal/optimus.mobileconfig"
+   },
+   {
+     "name": "TMN",
+     "country": "Portugal",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Portugal/tmn.mobileconfig"
+   },
+   {
+     "name": "Vodafone PT",
+     "country": "Portugal",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Portugal/vodafone.mobileconfig"
+   },
+   {
+     "name": "ZON NET MOBILE",
+     "country": "Portugal",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Portugal/zonnetmobile.mobileconfig"
+   }
+ ]
+}

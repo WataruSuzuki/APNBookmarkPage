@@ -1,0 +1,21 @@
+
+{
+ "kind": "profile_lists",
+ "items": [
+   {
+     "name": "China Telecom",
+     "country": "China",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/China/chinatelecom.mobileconfig"
+   },
+   {
+     "name": "China Unicom",
+     "country": "China",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/China/chinaunicom.mobileconfig"
+   },
+   {
+     "name": "China Mobile",
+     "country": "China",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/China/chinamobile.mobileconfig"
+   }
+ ]
+}

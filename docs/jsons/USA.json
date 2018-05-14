@@ -1,0 +1,141 @@
+
+{
+ "kind": "profile_lists",
+ "items": [
+   {
+     "name": "Airvoice Wireless",
+     "country": "USA",
+     "profile_url": "https://www.airvoicewireless.com/apn/Airvoice.NewV1.mobileconfig"
+   },
+   {
+     "name": "Consumer Cellular",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/consumercellular.mobileconfig"
+   },
+   {
+     "name": "Cricket",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/cricket.mobileconfig"
+   },
+   {
+     "name": "Defence mobile",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/defencemobile.mobileconfig"
+   },
+   {
+     "name": "Good2Go",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/good2go.mobileconfig"
+   },
+   {
+     "name": "GoSmart Mobile",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/gosmartmobile.mobileconfig"
+   },
+   {
+     "name": "H2O（AT&T MVNO）",
+     "country": "USA",
+     "profile_url": "https://www.locusapi.com/pcs/h2o.new2.mobileconfig"
+   },
+   {
+     "name": "Jolt mobile",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/joltmobile.mobileconfig"
+   },
+   {
+     "name": "Liberty Wireless",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/libertywireless.mobileconfig"
+   },
+   {
+     "name": "LycaMobile",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/lycamobile.mobileconfig"
+   },
+   {
+     "name": "MetroPCS",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/metropcs.mobileconfig"
+   },
+   {
+     "name": "Mobal",
+     "country": "USA",
+     "profile_url": "http://openroamer.com/Openroamer.mobileconfig"
+   },
+   {
+     "name": "Net 10",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/net10.mobileconfig"
+   },
+   {
+     "name": "Page Plus Cellular",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/pagepluscellular.mobileconfig"
+   },
+   {
+     "name": "Pix Wireless",
+     "country": "USA",
+     "profile_url": "https://www.pixwireless.com/other/pixwireless.mobileconfig"
+   },
+   {
+     "name": "Project Fi",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/projectfi.mobileconfig"
+   },
+   {
+     "name": "Red Pocket Mobile",
+     "country": "USA",
+     "profile_url": "http://goredpocket.com/iphone"
+   },
+   {
+     "name": "Tello modem",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/tello-modem.mobileconfig"
+   },
+   {
+     "name": "Tello data(r.mi)",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/tello-data.mobileconfig"
+   },
+   {
+     "name": "The People's Operator USA",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/tpo.mobileconfig"
+   },
+   {
+     "name": "Ting",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/ting.mobileconfig"
+   },
+   {
+     "name": "US mobile",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/usmobile.mobileconfig"
+   },
+   {
+     "name": "UVA mobile",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/uvamobile.mobileconfig"
+   },
+   {
+     "name": "Ultra mobile",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/ultramobile.mobileconfig"
+   },
+   {
+     "name": "Walmart Family mobile",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/walmartfamilymobile.mobileconfig"
+   },
+   {
+     "name": "ZingPCS",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/zingpcs.mobileconfig"
+   },
+   {
+     "name": "Ready SIM",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/readysim.mobileconfig"
+   }
+ ]
+}

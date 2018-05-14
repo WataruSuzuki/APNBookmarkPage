@@ -1,0 +1,21 @@
+
+{
+ "kind": "profile_lists",
+ "items": [
+   {
+     "name": "M1",
+     "country": "Singapore",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Singapore/m1.mobileconfig"
+   },
+   {
+     "name": "Singtel",
+     "country": "Singapore",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Singapore/singtel.mobileconfig"
+   },
+   {
+     "name": "Starhub",
+     "country": "Singapore",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Singapore/starhub.mobileconfig"
+   }
+ ]
+}

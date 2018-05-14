@@ -1,0 +1,101 @@
+
+{
+ "kind": "profile_lists",
+ "items": [
+   {
+     "name": "3(Three)",
+     "country": "Australia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Australia/three.mobileconfig"
+   },
+   {
+     "name": "AAPT",
+     "country": "Australia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Australia/aapt.mobileconfig"
+   },
+   {
+     "name": "ALDI",
+     "country": "Australia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Australia/aldi.mobileconfig"
+   },
+   {
+     "name": "AMAYSIM",
+     "country": "Australia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Australia/amaysim.mobileconfig"
+   },
+   {
+     "name": "Apex Telecom",
+     "country": "Australia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Australia/apextelecom.mobileconfig"
+   },
+   {
+     "name": "Bendigo Bank Telco",
+     "country": "Australia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Australia/bendigobanktelco.mobileconfig"
+   },
+   {
+     "name": "BOOST",
+     "country": "Australia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Australia/boost.mobileconfig"
+   },
+   {
+     "name": "Crazy John",
+     "country": "Australia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Australia/crazyjohn.mobileconfig"
+   },
+   {
+     "name": "DODO",
+     "country": "Australia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Australia/dodo.mobileconfig"
+   },
+   {
+     "name": "Exetel",
+     "country": "Australia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Australia/exetel.mobileconfig"
+   },
+   {
+     "name": "iiNet",
+     "country": "Australia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Australia/iinet.mobileconfig"
+   },
+   {
+     "name": "Internode",
+     "country": "Australia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Australia/internode.mobileconfig"
+   },
+   {
+     "name": "Optus",
+     "country": "Australia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Australia/optus.mobileconfig"
+   },
+   {
+     "name": "PennyTel",
+     "country": "Australia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Australia/pennytel.mobileconfig"
+   },
+   {
+     "name": "Primus",
+     "country": "Australia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Australia/primus.mobileconfig"
+   },
+   {
+     "name": "Telstra",
+     "country": "Australia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Australia/telstra.mobileconfig"
+   },
+   {
+     "name": "TPG",
+     "country": "Australia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Australia/tpg.mobileconfig"
+   },
+   {
+     "name": "Virgin AU",
+     "country": "Australia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Australia/virgin.mobileconfig"
+   },
+   {
+     "name": "Vodafone AU",
+     "country": "Australia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Australia/vodafone.mobileconfig"
+   }
+ ]
+}

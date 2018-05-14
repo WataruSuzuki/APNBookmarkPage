@@ -1,0 +1,36 @@
+
+{
+ "kind": "profile_lists",
+ "items": [
+   {
+     "name": "E-Plus Internet",
+     "country": "Germany",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Germany/eplus.mobileconfig"
+   },
+   {
+     "name": "Lebara",
+     "country": "Germany",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Germany/lebara.mobileconfig"
+   },
+   {
+     "name": "Lyca Mobile",
+     "country": "Germany",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Germany/lycamobile.mobileconfig"
+   },
+   {
+     "name": "O2",
+     "country": "Germany",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Germany/o2.mobileconfig"
+   },
+   {
+     "name": "TCHIBO",
+     "country": "Germany",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Germany/tchibo.mobileconfig"
+   },
+   {
+     "name": "Vodafone",
+     "country": "Germany",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Germany/vodafone.mobileconfig"
+   }
+ ]
+}

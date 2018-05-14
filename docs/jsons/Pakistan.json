@@ -1,0 +1,31 @@
+
+{
+ "kind": "profile_lists",
+ "items": [
+   {
+     "name": "Mobilink",
+     "country": "Pakistan",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Pakistan/mobilink.mobileconfig"
+   },
+   {
+     "name": "telenor",
+     "country": "Pakistan",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Pakistan/telenor.mobileconfig"
+   },
+   {
+     "name": "ufone",
+     "country": "Pakistan",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Pakistan/ufone.mobileconfig"
+   },
+   {
+     "name": "Zong Internet",
+     "country": "Pakistan",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Pakistan/zong.mobileconfig"
+   },
+   {
+     "name": "Warid",
+     "country": "Pakistan",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Pakistan/warid.mobileconfig"
+   }
+ ]
+}

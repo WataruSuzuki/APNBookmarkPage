@@ -1,0 +1,36 @@
+
+{
+ "kind": "profile_lists",
+ "items": [
+   {
+     "name": "3 Indonesia",
+     "country": "Indonesia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Indonesia/3.mobileconfig"
+   },
+   {
+     "name": "AXIS",
+     "country": "Indonesia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Indonesia/axis.mobileconfig"
+   },
+   {
+     "name": "Intosat",
+     "country": "Indonesia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Indonesia/indosat.mobileconfig"
+   },
+   {
+     "name": "SmartFren",
+     "country": "Indonesia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Indonesia/smartfren.mobileconfig"
+   },
+   {
+     "name": "Telkomsel",
+     "country": "Indonesia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Indonesia/telkomsel.mobileconfig"
+   },
+   {
+     "name": "XL",
+     "country": "Indonesia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Indonesia/xl.mobileconfig"
+   }
+ ]
+}

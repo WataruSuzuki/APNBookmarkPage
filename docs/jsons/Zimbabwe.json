@@ -1,0 +1,16 @@
+
+{
+ "kind": "profile_lists",
+ "items": [
+   {
+     "name": "Econet mobile",
+     "country": "Zimbabwe",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Zimbabwe/econetmobile.mobileconfig"
+   },
+   {
+     "name": "Telecel",
+     "country": "Zimbabwe",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Zimbabwe/telecel.mobileconfig"
+   }
+ ]
+}

@@ -1,0 +1,61 @@
+
+{
+ "kind": "profile_lists",
+ "items": [
+   {
+     "name": "Bell Mobility",
+     "country": "Canada",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Canada/bellmobility.mobileconfig"
+   },
+   {
+     "name": "Chat r",
+     "country": "Canada",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Canada/chatr.mobileconfig"
+   },
+   {
+     "name": "Freedom Mobile",
+     "country": "Canada",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Canada/freedommobile.mobileconfig"
+   },
+   {
+     "name": "Fido",
+     "country": "Canada",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Canada/fido.mobileconfig"
+   },
+   {
+     "name": "Koodo Mobile",
+     "country": "Canada",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Canada/koodo.mobileconfig"
+   },
+   {
+     "name": "Public Mobile",
+     "country": "Canada",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Canada/publicmobile.mobileconfig"
+   },
+   {
+     "name": "Rogers",
+     "country": "Canada",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Canada/rogers.mobileconfig"
+   },
+   {
+     "name": "SaskTel",
+     "country": "Canada",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Canada/sasktel.mobileconfig"
+   },
+   {
+     "name": "Telus Mobility",
+     "country": "Canada",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Canada/telusmobility.mobileconfig"
+   },
+   {
+     "name": "VIDEOTRON",
+     "country": "Canada",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Canada/videotron.mobileconfig"
+   },
+   {
+     "name": "Viaero",
+     "country": "Canada",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Canada/viaero.mobileconfig"
+   }
+ ]
+}

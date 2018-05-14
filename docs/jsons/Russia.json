@@ -1,0 +1,21 @@
+
+{
+ "kind": "profile_lists",
+ "items": [
+   {
+     "name": "Beeline",
+     "country": "Russia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Russia/beeline.mobileconfig"
+   },
+   {
+     "name": "MTS",
+     "country": "Russia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Russia/mts.mobileconfig"
+   },
+   {
+     "name": "Vodafone",
+     "country": "Russia",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Russia/megafon.mobileconfig"
+   }
+ ]
+}

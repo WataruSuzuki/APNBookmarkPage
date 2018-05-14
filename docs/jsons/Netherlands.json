@@ -1,0 +1,36 @@
+
+{
+ "kind": "profile_lists",
+ "items": [
+   {
+     "name": "Ben Internet",
+     "country": "Netherlands",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Netherlands/ben.mobileconfig"
+   },
+   {
+     "name": "KPN Internet",
+     "country": "Netherlands",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Netherlands/kpn.mobileconfig"
+   },
+   {
+     "name": "Orange",
+     "country": "Netherlands",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Netherlands/orange.mobileconfig"
+   },
+   {
+     "name": "T-Mobile",
+     "country": "Netherlands",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Netherlands/tmobile.mobileconfig"
+   },
+   {
+     "name": "Telfort",
+     "country": "Netherlands",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Netherlands/telfort.mobileconfig"
+   },
+   {
+     "name": "Vodafone",
+     "country": "Netherlands",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Netherlands/vodafone.mobileconfig"
+   }
+ ]
+}

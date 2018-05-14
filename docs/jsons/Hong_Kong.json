@@ -1,0 +1,46 @@
+
+{
+ "kind": "profile_lists",
+ "items": [
+   {
+     "name": "CSL1010",
+     "country": "Hong_Kong",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Hong_Kong/csl1010.mobileconfig"
+   },
+   {
+     "name": "NewWorld",
+     "country": "Hong_Kong",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Hong_Kong/newworld.mobileconfig"
+   },
+   {
+     "name": "NextG",
+     "country": "Hong_Kong",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Hong_Kong/nextg.mobileconfig"
+   },
+   {
+     "name": "NextG Public",
+     "country": "Hong_Kong",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Hong_Kong/nextgpublic.mobileconfig"
+   },
+   {
+     "name": "One 2 Free",
+     "country": "Hong_Kong",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Hong_Kong/one2free.mobileconfig"
+   },
+   {
+     "name": "PCCW",
+     "country": "Hong_Kong",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Hong_Kong/pccw.mobileconfig"
+   },
+   {
+     "name": "Peoples",
+     "country": "Hong_Kong",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Hong_Kong/peoples.mobileconfig"
+   },
+   {
+     "name": "SmarTone HK",
+     "country": "Hong_Kong",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Hong_Kong/smartonehk.mobileconfig"
+   }
+ ]
+}

@@ -1,0 +1,21 @@
+
+{
+ "kind": "profile_lists",
+ "items": [
+   {
+     "name": "Base",
+     "country": "Belgium",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Belgium/base.mobileconfig"
+   },
+   {
+     "name": "Mobistar",
+     "country": "Belgium",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Belgium/mobistar.mobileconfig"
+   },
+   {
+     "name": "Proximus",
+     "country": "Belgium",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Belgium/proximus.mobileconfig"
+   }
+ ]
+}

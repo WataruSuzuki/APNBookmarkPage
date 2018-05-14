@@ -1,0 +1,31 @@
+
+{
+ "kind": "profile_lists",
+ "items": [
+   {
+     "name": "Bouygues",
+     "country": "France",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/France/bouygues.mobileconfig"
+   },
+   {
+     "name": "Free",
+     "country": "France",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/France/free.mobileconfig"
+   },
+   {
+     "name": "Orange",
+     "country": "France",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/France/orange.mobileconfig"
+   },
+   {
+     "name": "SFR",
+     "country": "France",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/France/sfr.mobileconfig"
+   },
+   {
+     "name": "Sosh",
+     "country": "France",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/France/sosh.mobileconfig"
+   }
+ ]
+}
