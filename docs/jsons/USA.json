@@ -88,6 +88,11 @@
      "profile_url": "http://goredpocket.com/iphone"
    },
    {
+     "name": "Straight Talk(proxy.mvno.tracfone.com)",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/straighttalk_proxy.mvno.tracfone.com.mobileconfig"
+   },
+   {
      "name": "Tello modem",
      "country": "USA",
      "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/tello-modem.mobileconfig"
@@ -106,6 +111,11 @@
      "name": "Ting",
      "country": "USA",
      "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/ting.mobileconfig"
+   },
+   {
+     "name": "Tracfone",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/tracfone.mobileconfig"
    },
    {
      "name": "US mobile",
