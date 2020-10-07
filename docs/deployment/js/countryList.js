@@ -97,7 +97,7 @@ angular.module('app')
 				// {name: 'Madagascar'},
 				// {name: 'Malawi'},
 				// {name: 'Malaysia'},
-				// {name: 'Mali'},
+				{name: 'Mali'},
 				// {name: 'Malta'},
 				// {name: 'Mauritania'},
 				// {name: 'Mauritius'},
