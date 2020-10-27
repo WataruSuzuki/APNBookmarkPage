@@ -4,7 +4,7 @@
  "items": [
    {
      "name": "ApnAssister2",
-     "version": "5.0.1"
+     "version": "5.0.0"
    },
    {
      "name": "ApnMemo",
@@ -12,7 +12,7 @@
    },
    {
      "name": "APNAssistant",
-     "version": "5.0.1"
+     "version": "5.0.0"
    }
  ]
 }
