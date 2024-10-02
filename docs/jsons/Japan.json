@@ -13,6 +13,11 @@
      "profile_url": "http://www.so-net.ne.jp/access/catalog/mobile/lte/download/So-netAPN.mobileconfig"
    },
    {
+    "name": "NUROモバイル",
+    "country": "Japan",
+    "profile_url": "https://mobile.nuro.jp/support/device/SonyNetworkCommunicationsAPN.mobileconfig"
+   },
+   {
      "name": "UQ mobile",
      "country": "Japan",
      "profile_url": "https://www.uqwimax.jp/mobile/support/guide/apn/UQmobile_2.0.mobileconfig"
