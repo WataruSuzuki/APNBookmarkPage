@@ -43,17 +43,22 @@
      "profile_url": "http://asahi-net.jp/service/mobile/lte/config/asahi-hc-fixedip.mobileconfig"
    },
    {
-     "name": "楽天モバイル(003,005の方)",
+     "name": "楽天モバイル",
+     "country": "Japan",
+     "profile_url": "https://mobile.rakuten.co.jp/support/apn_setting/B_voice.mobileconfig"
+   },
+   {
+     "name": "楽天モバイル(MVNO版, 003,005の方)",
      "country": "Japan",
      "profile_url": "http://mobile.rakuten.co.jp/support/apn_setting/voice.mobileconfig"
    },
    {
-     "name": "楽天モバイル(006,007の方)",
+     "name": "楽天モバイル(MVNO版, 006,007の方)",
      "country": "Japan",
      "profile_url": "http://mobile.rakuten.co.jp/support/apn_setting/B_voice.mobileconfig"
    },
    {
-     "name": "楽天モバイル(008,009の方)",
+     "name": "楽天モバイル(MVNO版, 008,009の方)",
      "country": "Japan",
      "profile_url": "http://mobile.rakuten.co.jp/support/apn_setting/C_voice.mobileconfig"
    },
